@@ -1,3 +1,3 @@
-# Automatics-and-Vision-based-Toll-Tax-Collection-System
+# Automatics & Vision based Toll Tax collection system
 
-In this dissertation we (me & my team) presented an architecture/system for real-time implementation of Automatic toll Tax Collection System using Image Procesing and Radio-frequency identification (RFID).
+In this dissertation we (me & my team) presented an architecture/system for real-time implementation of Automatic Toll Tax collection system using Image Procesing and Radio Frequency Identification tag (RFID).
